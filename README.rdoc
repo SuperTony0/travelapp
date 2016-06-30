@@ -1,28 +1,13 @@
-== README
+ - MVP for this APP - 
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+I would like a User to be able to upload the destination they are traveling to and the hotel/room that they have booked into a 'Trips' section of the website.  There they are able to show who is currently staying in the room and how many open spots there are.  
+A second user would be able to search the trips by the destination and see all the rooms that have available space.
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+If a user wants to stay with someone with openings in the room, a request will be sent to the creater of the room to allow them to take the spot.
 
 
-Please feel free to use a different markup language if you do not plan to run
-<tt>rake doc:app</tt>.
+    -Long Term Goals (or if time permits)-
+
+-There would be additional functionality to add traveling to the destination (carpool, flight buddy, et cetra).
+-Facebook/google login integration
+-Adding origins of travel to know where people are coming from 
